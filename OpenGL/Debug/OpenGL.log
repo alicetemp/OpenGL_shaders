@@ -1,0 +1,52 @@
+﻿  Main.cpp
+  Main1.cpp
+  Создание кода...
+Main1.obj : error LNK2005: _main єцх юяЁхфхыхэ т Main.obj
+Main1.obj : error LNK2005: "char const * const vertexShaderSource" (?vertexShaderSource@@3PBDB) єцх юяЁхфхыхэ т Main.obj
+Main1.obj : error LNK2005: "char const * const fragmentShaderSource" (?fragmentShaderSource@@3PBDB) єцх юяЁхфхыхэ т Main.obj
+Main.obj : error LNK2019: ёё√ыър эр эхЁрчЁх°хээ√щ тэх°эшщ ёшьтюы _glfwInit т ЇєэъЎшш _main
+Main1.obj : error LNK2001: эхЁрчЁх°хээ√щ тэх°эшщ ёшьтюы "_glfwInit"
+Main.obj : error LNK2019: ёё√ыър эр эхЁрчЁх°хээ√щ тэх°эшщ ёшьтюы _glfwTerminate т ЇєэъЎшш _main
+Main1.obj : error LNK2001: эхЁрчЁх°хээ√щ тэх°эшщ ёшьтюы "_glfwTerminate"
+Main.obj : error LNK2019: ёё√ыър эр эхЁрчЁх°хээ√щ тэх°эшщ ёшьтюы _glfwWindowHint т ЇєэъЎшш _main
+Main1.obj : error LNK2001: эхЁрчЁх°хээ√щ тэх°эшщ ёшьтюы "_glfwWindowHint"
+Main.obj : error LNK2019: ёё√ыър эр эхЁрчЁх°хээ√щ тэх°эшщ ёшьтюы _glfwCreateWindow т ЇєэъЎшш _main
+Main1.obj : error LNK2001: эхЁрчЁх°хээ√щ тэх°эшщ ёшьтюы "_glfwCreateWindow"
+Main.obj : error LNK2019: ёё√ыър эр эхЁрчЁх°хээ√щ тэх°эшщ ёшьтюы _glfwWindowShouldClose т ЇєэъЎшш _main
+Main1.obj : error LNK2001: эхЁрчЁх°хээ√щ тэх°эшщ ёшьтюы "_glfwWindowShouldClose"
+Main.obj : error LNK2019: ёё√ыър эр эхЁрчЁх°хээ√щ тэх°эшщ ёшьтюы _glfwSetWindowShouldClose т ЇєэъЎшш "void __cdecl processInput(struct GLFWwindow *)" (?processInput@@YAXPAUGLFWwindow@@@Z)
+Main1.obj : error LNK2001: эхЁрчЁх°хээ√щ тэх°эшщ ёшьтюы "_glfwSetWindowShouldClose"
+Main.obj : error LNK2019: ёё√ыър эр эхЁрчЁх°хээ√щ тэх°эшщ ёшьтюы _glfwWaitEvents т ЇєэъЎшш _main
+Main.obj : error LNK2019: ёё√ыър эр эхЁрчЁх°хээ√щ тэх°эшщ ёшьтюы _glfwGetKey т ЇєэъЎшш "void __cdecl processInput(struct GLFWwindow *)" (?processInput@@YAXPAUGLFWwindow@@@Z)
+Main.obj : error LNK2019: ёё√ыър эр эхЁрчЁх°хээ√щ тэх°эшщ ёшьтюы _glfwMakeContextCurrent т ЇєэъЎшш _main
+Main1.obj : error LNK2001: эхЁрчЁх°хээ√щ тэх°эшщ ёшьтюы "_glfwMakeContextCurrent"
+Main.obj : error LNK2019: ёё√ыър эр эхЁрчЁх°хээ√щ тэх°эшщ ёшьтюы _glfwSwapBuffers т ЇєэъЎшш _main
+Main1.obj : error LNK2001: эхЁрчЁх°хээ√щ тэх°эшщ ёшьтюы "_glfwSwapBuffers"
+Main.obj : error LNK2019: ёё√ыър эр эхЁрчЁх°хээ√щ тэх°эшщ ёшьтюы _glfwGetProcAddress т ЇєэъЎшш _main
+Main1.obj : error LNK2019: ёё√ыър эр эхЁрчЁх°хээ√щ тэх°эшщ ёшьтюы _glewInit@0 т ЇєэъЎшш _main
+Main1.obj : error LNK2019: ёё√ыър эр эхЁрчЁх°хээ√щ тэх°эшщ ёшьтюы _glfwPollEvents т ЇєэъЎшш _main
+Main1.obj : error LNK2019: ёё√ыър эр эхЁрчЁх°хээ√щ тэх°эшщ ёшьтюы _glfwSetKeyCallback т ЇєэъЎшш _main
+Main1.obj : error LNK2001: эхЁрчЁх°хээ√щ тэх°эшщ ёшьтюы "___glewBindBuffer"
+Main1.obj : error LNK2001: эхЁрчЁх°хээ√щ тэх°эшщ ёшьтюы "___glewBufferData"
+Main1.obj : error LNK2001: эхЁрчЁх°хээ√щ тэх°эшщ ёшьтюы "___glewDeleteBuffers"
+Main1.obj : error LNK2001: эхЁрчЁх°хээ√щ тэх°эшщ ёшьтюы "___glewGenBuffers"
+Main1.obj : error LNK2001: эхЁрчЁх°хээ√щ тэх°эшщ ёшьтюы "___glewAttachShader"
+Main1.obj : error LNK2001: эхЁрчЁх°хээ√щ тэх°эшщ ёшьтюы "___glewCompileShader"
+Main1.obj : error LNK2001: эхЁрчЁх°хээ√щ тэх°эшщ ёшьтюы "___glewCreateProgram"
+Main1.obj : error LNK2001: эхЁрчЁх°хээ√щ тэх°эшщ ёшьтюы "___glewCreateShader"
+Main1.obj : error LNK2001: эхЁрчЁх°хээ√щ тэх°эшщ ёшьтюы "___glewDeleteShader"
+Main1.obj : error LNK2001: эхЁрчЁх°хээ√щ тэх°эшщ ёшьтюы "___glewEnableVertexAttribArray"
+Main1.obj : error LNK2001: эхЁрчЁх°хээ√щ тэх°эшщ ёшьтюы "___glewGetProgramInfoLog"
+Main1.obj : error LNK2001: эхЁрчЁх°хээ√щ тэх°эшщ ёшьтюы "___glewGetProgramiv"
+Main1.obj : error LNK2001: эхЁрчЁх°хээ√щ тэх°эшщ ёшьтюы "___glewGetShaderInfoLog"
+Main1.obj : error LNK2001: эхЁрчЁх°хээ√щ тэх°эшщ ёшьтюы "___glewGetShaderiv"
+Main1.obj : error LNK2001: эхЁрчЁх°хээ√щ тэх°эшщ ёшьтюы "___glewLinkProgram"
+Main1.obj : error LNK2001: эхЁрчЁх°хээ√щ тэх°эшщ ёшьтюы "___glewShaderSource"
+Main1.obj : error LNK2001: эхЁрчЁх°хээ√щ тэх°эшщ ёшьтюы "___glewUseProgram"
+Main1.obj : error LNK2001: эхЁрчЁх°хээ√щ тэх°эшщ ёшьтюы "___glewVertexAttribPointer"
+Main1.obj : error LNK2001: эхЁрчЁх°хээ√щ тэх°эшщ ёшьтюы "___glewBindVertexArray"
+Main1.obj : error LNK2001: эхЁрчЁх°хээ√щ тэх°эшщ ёшьтюы "___glewDeleteVertexArrays"
+Main1.obj : error LNK2001: эхЁрчЁх°хээ√щ тэх°эшщ ёшьтюы "___glewGenVertexArrays"
+Main1.obj : error LNK2001: эхЁрчЁх°хээ√щ тэх°эшщ ёшьтюы "_glewExperimental"
+C:\Users\Alise\source\repos\OpenGL_stuff\Libraries\glfw3.lib : warning LNK4272: Єшя ъюья№■ЄхЁр сшсышюЄхъш "x64" ъюэЇышъЄєхЄ ё Єшяюь Ўхыхтюую ъюья№■ЄхЁр "x86"
+C:\Users\Alise\source\repos\OpenGL\Debug\OpenGL.exe : fatal error LNK1120: эхЁрчЁх°хээ√ї тэх°эшї ¤ыхьхэЄют: 36
